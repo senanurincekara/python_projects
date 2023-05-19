@@ -1,3 +1,0 @@
-LZW kodunun çalışma zamanı: 0.007994890213012695
-LZW sıkıştırılmadan önceki boyut: 120
-LZW sıkıştırıldıktan sonraki boyut: 162
